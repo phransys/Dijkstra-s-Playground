@@ -14,3 +14,8 @@ Instructions:
 ```bash
 pip install pygame
 pip install main.py
+```
+Possible adjustments for the future:
+- Add some animations and actual characters traversing the graph
+- Turn into web app
+- More dungeon theme rather than just color scheme
